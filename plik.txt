@@ -1,2 +1,3 @@
 linijka pierwsza
 druga linijka
+trzecia linijka
